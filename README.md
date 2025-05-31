@@ -32,7 +32,7 @@ A web-based bookstore application that allows users to browse, shop, and manage 
 
 2. **Clone the Repository**
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/ABDURRAHMAAN1593/bookstore-web-app.git
    ```
    - Place the cloned files in your XAMPP's htdocs directory
 
